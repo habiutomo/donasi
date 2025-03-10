@@ -4,7 +4,7 @@ Platform donasi dan sedekah berbasis web untuk yayasan menggunakan React dan Exp
 
 ![Preview](https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=600)
 
-![Preview](donasi.png)
+![Preview](11.png)
 
 ![Preview](donasi1.png)
 
