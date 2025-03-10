@@ -4,6 +4,12 @@ Platform donasi dan sedekah berbasis web untuk yayasan menggunakan React dan Exp
 
 ![Preview](https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=600)
 
+![Preview](donasi.png)
+
+![Preview](donasi1.png)
+
+![Preview](donasi2.png)
+
 ## 🚀 Teknologi
 
 - **Frontend**: React, TanStack Query, Tailwind CSS, shadcn/ui
@@ -60,4 +66,5 @@ MIT License - Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ## 🤝 Kontribusi
 
-Kontribusi, issues, dan feature requests sangat diterima. Silakan buat issue terlebih dahulu untuk diskusi perubahan yang ingin dilakukan.
+Kontribusi, issues, dan feature requests sangat diterima. Silakan buat issue terlebih dahulu untuk diskusi perubahan yang ingin dilakukan. silahkan email habizinnia@gmail.com
+jika membutuhkan repo ini
